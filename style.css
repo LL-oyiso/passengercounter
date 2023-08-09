@@ -1,14 +1,29 @@
 #counter-card{
     width: 400px;
-    background:linear-gradient(#a2d2ff,#EFB0C9);
+    background:#15202b;
     margin: 170px auto 0px;
     padding: 20px;
     text-align: center;
+    color:#ffffff;
+    border-radius: 15px;
+    border: 9px solid #22303c;
 }
 
 .btn{
+    margin-top:15px;
     padding: 5px 10px;
     border: none;
     border-radius: 10px;
     margin-left:10px;
+    background-color: #8899a6;
+    color:#ffffff;
+    margin-left:20px;
+}
+
+#count-el{
+    margin:20px 30px;
+    font-size: 30px;
+}
+#save-el{
+    margin: 30px 15px;
 }
