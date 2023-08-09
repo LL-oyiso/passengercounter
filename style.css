@@ -1,0 +1,14 @@
+#counter-card{
+    width: 400px;
+    background:linear-gradient(#a2d2ff,#EFB0C9);
+    margin: 170px auto 0px;
+    padding: 20px;
+    text-align: center;
+}
+
+.btn{
+    padding: 5px 10px;
+    border: none;
+    border-radius: 10px;
+    margin-left:10px;
+}
