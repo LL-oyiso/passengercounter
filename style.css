@@ -5,9 +5,7 @@
     padding: 20px;
     text-align: center;
     color:#ffffff;
-    border-radius: 15px;
-    border: 9px solid #22303c;
-}
+   
 
 .btn{
     margin-top:15px;
@@ -22,7 +20,7 @@
 
 #count-el{
     margin:20px 30px;
-   
+    font-size: 30px;
 }
 #save-el{
     margin: 30px 15px;
