@@ -5,7 +5,9 @@
     padding: 20px;
     text-align: center;
     color:#ffffff;
-   
+    border-radius: 15px;
+    border: 9px solid #22303c;
+}
 
 .btn{
     margin-top:15px;
