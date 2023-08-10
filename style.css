@@ -15,14 +15,14 @@
     border: none;
     border-radius: 10px;
     margin-left:10px;
-    
+    background-color: #8899a6;
     color:#ffffff;
     margin-left:20px;
 }
 
 #count-el{
     margin:20px 30px;
-    font-size: 30px;
+   
 }
 #save-el{
     margin: 30px 15px;
